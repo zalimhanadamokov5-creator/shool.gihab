@@ -1,0 +1,2 @@
+# shool.gihab
+zalik.githab
